@@ -11,6 +11,11 @@ This is example is to show different parts
 
 ## Purpose
 
+Simple example for Git training demos.
+
 ## Deployment
+
+Simple web project, deplyment can be on any web
+server or even local.
 
 ## How to Contribute
