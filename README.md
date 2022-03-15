@@ -19,3 +19,7 @@ Simple web project, deplyment can be on any web
 server or even local.
 
 ## How to Contribute
+
+## Copyright
+
+2022 Git.Traning.
