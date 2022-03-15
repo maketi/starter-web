@@ -20,6 +20,8 @@ server or even local.
 
 ## How to Contribute
 
+Please fork this repository and then issue Pull req for revieew
+
 ## Copyright
 
 2022 Git.Traning.
