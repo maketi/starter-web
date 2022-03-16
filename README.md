@@ -25,4 +25,4 @@ Please fork this repository and then issue Pull req for revieew
 
 ## Copyright
 
-2022 Git.Traning.
+2022 Git.Traning.All rights reserved.
