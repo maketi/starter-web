@@ -1,5 +1,4 @@
 # humanstxt.org/
-
 # The humans responsible & technology colophon
 
 # TEAM
@@ -8,10 +7,7 @@
 
 # THANKS
 
-    All for watching
-	Another sample
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr, sql
